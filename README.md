@@ -17,7 +17,7 @@
   ### Dev em construção, focado atualmente em desenvolvimento web e bancos de dados.
  
 <div> 
- <a href="https://www.linkedin.com/in/mario-henrique-cardoso-vergara-669a43210" target="_blank">
+<a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/mario-henrique-cardoso-vergara-669a43210"> 
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mariovergaralorena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vergara.m94" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
