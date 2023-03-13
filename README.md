@@ -1,7 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 😁
-
- <div>
-   <a href="https://github.com/mvergara94">
+<a href="https://github.com/mvergara94">
+ <div>   
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvergara94&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvergara94&layout=compact&langs_count=6&theme=synthwave"/>
 
