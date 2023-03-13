@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Dev em construção, Focado atualmente em desenvolvimento web e bancos de dados.
+  ### Dev em construção, focado atualmente em desenvolvimento web e bancos de dados.
  
 <div> 
 <a href="https://www.linkedin.com/in/mario-henrique-cardoso-vergara-669a43210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
