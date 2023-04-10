@@ -13,8 +13,8 @@
 
 ### Plans
 - 🔭 I’m currently working on becoming a **Web Developer**
-- 🌱 I’m currently learning **SASS & Tailwind**
-- 📘 The next item on my study plan is **JavaScript**
+- 🌱 I’m currently learning **Javascript**
+- 📘 The next item on my study plan is **Angular and React**
 - ✔️ Check out my projects at [**Frontend Mentor**](https://www.frontendmentor.io/profile/mvergara94)
 
 </div>
