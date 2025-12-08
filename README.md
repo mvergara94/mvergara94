@@ -37,20 +37,14 @@ Atualmente:
 
 ## 📂 Projetos em Destaque (em construção)
 
-> Esta seção será atualizada conforme novos protótipos e sistemas ficarem prontos.
-
-- 🔧 *System Demo*: Sistema de inventário (Unity)  
-- 🤖 *AI Demo*: Inimigo com FSM (Finite State Machine)  
-- 🗺️ *Controller Demo*: Movement Controller top-down  
-- 🎮 *Mini-game completo*: Projeto jogável no itch.io
+> 
 
 ---
 
 ## 📫 Contato
 
-- **Email**: (se quiser colocar)  
-- **LinkedIn**: (quando criarmos — vai entrar aqui)  
-- **itch.io**: (iremos criar assim que subir seu primeiro protótipo)  
+- **Email**: mariovergaralorena@gmail.com  
+
 
 ---
 
